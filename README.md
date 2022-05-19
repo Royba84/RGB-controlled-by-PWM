@@ -1,5 +1,7 @@
 # RGB-controlled-by-PWM
 
+May 17 2021, Roy Ben Avraham;Mk;Ge
+
 In this project we will learn how to control RGB using PWM and a Joystick.
 
 To make it a little bit "complex" we won't use an RGB moudle or Joystick moudle BUT - 3 diffrent LEDS as an RGB and 2 potentiometers (one for each axis) as a joystick.
